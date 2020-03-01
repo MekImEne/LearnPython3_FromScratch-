@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eeccc85-c819-418b-9df2-a1b5b1db0649" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/boolean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/string_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/strings_formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/dictio_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/dictio_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/dictio_nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/lists_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/lists_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/tuples_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +36,32 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/strings_formatting.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/tuples_demo.py" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
-  <component name="RunManager" selected="Python.strings_formatting">
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MEKIDECHE Imane\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/tuples_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Variables" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +98,72 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/boolean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dictio_methods" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MEKIDECHE Imane\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/dictio_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lists_demo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MEKIDECHE Imane\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/lists_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lists_methods" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MEKIDECHE Imane\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax/lists_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,6 +287,10 @@
       <item itemvalue="Python.boolean" />
       <item itemvalue="Python.string_methods" />
       <item itemvalue="Python.strings_formatting" />
+      <item itemvalue="Python.lists_demo" />
+      <item itemvalue="Python.lists_methods" />
+      <item itemvalue="Python.dictio_methods" />
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.variables_rules" />
       <item itemvalue="Python.numbers" />
       <item itemvalue="Python.Variables" />
@@ -220,7 +313,8 @@
       <workItem from="1582918636241" duration="529000" />
       <workItem from="1582923602692" duration="1365000" />
       <workItem from="1582985046552" duration="1200000" />
-      <workItem from="1582998877802" duration="7539000" />
+      <workItem from="1582998877802" duration="9434000" />
+      <workItem from="1583015279143" duration="4790000" />
     </task>
     <servers />
   </component>
@@ -228,30 +322,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="59" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583006866053">
+    <state x="137" y="59" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583019569314">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="137" y="59" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728@0.40.1366.728" timestamp="1583006866053" />
-    <state x="462" y="158" key="FileChooserDialogImpl" timestamp="1583006863089">
+    <state x="137" y="59" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728@0.40.1366.728" timestamp="1583019569314" />
+    <state x="462" y="158" key="FileChooserDialogImpl" timestamp="1583019568245">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="462" y="158" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1583006863089" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583007044083">
+    <state x="462" y="158" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1583019568245" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583020083904">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1583007044083" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583007044083">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1583020083904" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583020083904">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1583007044083" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583007044083">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1583020083904" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583020083904">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1583007044083" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583007044083">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1583020083904" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583020083904">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1583007044083" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1583020083904" />
     <state x="184" y="46" key="SettingsEditor" timestamp="1582732873260">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
@@ -263,7 +357,11 @@
     <SUITE FILE_PATH="coverage/Python$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1582808385718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
     <SUITE FILE_PATH="coverage/Python$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1582806584547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
     <SUITE FILE_PATH="coverage/Python$Strings_py.coverage" NAME="string_methods Coverage Results" MODIFIED="1583006841384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
+    <SUITE FILE_PATH="coverage/Python$lists_demo.coverage" NAME="lists_demo Coverage Results" MODIFIED="1583008229470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
+    <SUITE FILE_PATH="coverage/Python$dictio_demo.coverage" NAME="dictio_methods Coverage Results" MODIFIED="1583019186127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
+    <SUITE FILE_PATH="coverage/Python$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1583019955014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
     <SUITE FILE_PATH="coverage/Python$strings_formatting.coverage" NAME="strings_formatting Coverage Results" MODIFIED="1583007044064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
     <SUITE FILE_PATH="coverage/Python$variables_rules.coverage" NAME="variables_rules Coverage Results" MODIFIED="1582807617523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
+    <SUITE FILE_PATH="coverage/Python$lists_methods.coverage" NAME="lists_methods Coverage Results" MODIFIED="1583016611500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" />
   </component>
 </project>
