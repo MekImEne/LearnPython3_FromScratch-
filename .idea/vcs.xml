@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learn Python 3 from scratch to become a developer/basicsyntax" vcs="Git" />
   </component>
 </project>
